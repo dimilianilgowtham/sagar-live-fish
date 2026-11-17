@@ -1,0 +1,11 @@
+node_modules
+.next
+.git
+.data
+.env*
+generated_images
+release
+coverage
+docs/previews
+*.tsbuildinfo
+*.log
